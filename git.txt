@@ -1,11 +1,22 @@
-git init
-git config --global user.name "Juliano Silva"
-$ git config --global user.email "juliano051@gmail.com"
-git config --global credential.helper wincred
-git remote add scrapper https://github.com/Juliano051/scrapper.git
-git add .
-git commit -m "Commit 12-01-18"
-git remote add origin https://github.com/Juliano051/scrapper.git
-git push -u origin master
-##
-atualizado no github
+##############################
+1. Configuração de repositório localmente 
+1.1 $ git init
+1.2 $ git config --global user.name "<nome do usuário>"
+1.3 $ git config --global user.email "<e-mail do usuário>"
+1.4 $ git config --global credential.helper wincred
+1.5 $ git remote add scrapper https://github.com/Juliano051/scrapper.git
+1.6 $ git add .
+1.7 $ git commit -m "<nome_do_commit>"
+1.8 $ git remote add origin https://github.com/Juliano051/scrapper.git
+1.9 $ git push -u origin master
+##############################
+   ----------------------
+##############################
+3.  atualizar arquivo no git
+3.1 após alteração, fazer um $ git status para visualizar as alterações
+3.2 em seguida fazer um $ git add <arquivo> ou $ git add . para atualizar todos os arquivos
+3.3 $ git commit -m "<nome_do_commit>"
+3.4 $ git push origin master para atualizar o repositório origin com as alterações realizadas em master
+##############################
+
+
