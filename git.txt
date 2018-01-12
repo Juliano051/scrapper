@@ -7,3 +7,5 @@ git add .
 git commit -m "Commit 12-01-18"
 git remote add origin https://github.com/Juliano051/scrapper.git
 git push -u origin master
+##
+atualizado no pc da cbtu
