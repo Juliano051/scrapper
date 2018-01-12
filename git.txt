@@ -24,7 +24,7 @@ atualizado no pc da cbtu 2
 1.6 $ git add .
 1.7 $ git commit -m "<nome_do_commit>"
 1.8 $ git remote add origin https://github.com/Juliano051/scrapper.git
-1.9 $ git push -u origin master
+1.9 $ git push -u scrapper master
 ##############################
    ----------------------
 ##############################
