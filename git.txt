@@ -1,0 +1,9 @@
+git init
+git config --global user.name "Juliano Silva"
+$ git config --global user.email "juliano051@gmail.com"
+git config --global credential.helper wincred
+git remote add scrapper https://github.com/Juliano051/scrapper.git
+git add .
+git commit -m "Commit 12-01-18"
+git remote add origin https://github.com/Juliano051/scrapper.git
+git push -u origin master
