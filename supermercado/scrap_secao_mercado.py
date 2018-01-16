@@ -34,6 +34,7 @@ for p in range(loop_pags):
             print("Categoria"+str(ls)+": "+js['content']['products'][loop]['shelfList'][ls]['name'])
         if js['content']['products'][loop]['shortDescription']:
             print("Descrição: "+js['content']['products'][loop]['shortDescription'])
+        print("Produto: "+js['content']['products'][loop]['name'])
         print("Imagem grande: http://www.deliveryextra.com.br"+js['content']['products'][loop]['mapOfImages']['0']['BIG'])
         print("Imagem média: http://www.deliveryextra.com.br"+js['content']['products'][loop]['mapOfImages']['0']['MEDIUM'])
         print("Thumbnail: http://www.deliveryextra.com.br"+js['content']['products'][loop]['mapOfImages']['0']['SMALL'])
