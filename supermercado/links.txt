@@ -1,0 +1,1876 @@
+Secretaria da Fazenda de GO - Aplicação com lista de produtos e código de barras
+http://aplicacao.sefaz.go.gov.br/perguntaresposta/consulta_pauta_bebidas.php?ano_pesquisa=2013003&cod_grupo=9
+
+-------
+Lista de produtos com foto e código de barras
+1) http://www.drogariaminasbrasil.com.br/conveniencia/alimentacao/mercearia/pasta-de-amendoim-santa-helena-firts-pote-500-g.html
+
+2) http://delivery.supermuffato.com.br/api/catalog_system/pub/products/search?sc=0&fq=categoriesId:250
+é possível buscar pelo id do produto skuId:<id_do_produto>
+
+3) busca de produtos por NCM, descrição e código de barras (sem fotos)
+http://www.analisadortributario.com.br/Default.aspx?
+
+
+
+-- coletado do extra:
+C:\Users\julianosilva.STUREC\anaconda3\envs\py34\python.exe C:/Users/julianosilva.STUREC/PycharmProjects/scrap/scrapper/supermercado/testes.py
+Iniciado...
+0
+https://api.gpa.digital/pa/products/list/secoes/183/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Étnicos
+https://api.gpa.digital/pa/products/list/secoes/184/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Étnicos
+Categoria: Étnicos
+https://api.gpa.digital/pa/products/list/secoes/185/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Étnicos
+Categoria: Étnicos
+https://api.gpa.digital/pa/products/list/secoes/186/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Étnicos
+Categoria: Étnicos
+https://api.gpa.digital/pa/products/list/secoes/187/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Étnicos
+Categoria: Étnicos
+1000
+https://api.gpa.digital/pa/products/list/secoes/1335/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: ESPECIAL FRALDAS
+2000
+3000
+ 4000
+https://api.gpa.digital/pa/products/list/secoes/4195/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Marcas Exclusivas
+https://api.gpa.digital/pa/products/list/secoes/4205/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4206/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4208/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Padaria
+https://api.gpa.digital/pa/products/list/secoes/4209/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4210/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4212/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4214/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Artigos para o Lar
+https://api.gpa.digital/pa/products/list/secoes/4215/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4222/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4223/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4224/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4225/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Massas
+https://api.gpa.digital/pa/products/list/secoes/4226/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4227/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4228/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4229/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/4231/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4233/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4235/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Floricultura e Jardinagem
+https://api.gpa.digital/pa/products/list/secoes/4236/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/4238/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Marcas Exclusivas
+Categoria: Marcas Exclusivas
+https://api.gpa.digital/pa/products/list/secoes/4239/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4241/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4242/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4243/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4244/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4245/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4246/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4247/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4248/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4249/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4250/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4251/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4252/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4253/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4254/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4255/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Marcas Exclusivas
+Categoria: Marcas Exclusivas
+https://api.gpa.digital/pa/products/list/secoes/4256/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Marcas Exclusivas
+Categoria: Marcas Exclusivas
+https://api.gpa.digital/pa/products/list/secoes/4257/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Marcas Exclusivas
+Categoria: Marcas Exclusivas
+https://api.gpa.digital/pa/products/list/secoes/4258/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4259/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4260/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4261/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4262/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4263/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4264/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4265/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4266/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4267/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4268/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4269/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4270/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4271/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4272/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4273/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4274/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4275/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4276/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4277/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4278/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4279/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4280/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4281/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4282/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4283/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4284/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4285/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Padaria
+Categoria: Padaria
+https://api.gpa.digital/pa/products/list/secoes/4286/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4287/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4288/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4289/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4290/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4291/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4292/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4293/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4294/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4295/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/4296/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4297/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4298/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4299/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4300/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4301/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/4302/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Padaria
+Categoria: Padaria
+https://api.gpa.digital/pa/products/list/secoes/4303/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Padaria
+Categoria: Padaria
+https://api.gpa.digital/pa/products/list/secoes/4304/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Padaria
+Categoria: Padaria
+https://api.gpa.digital/pa/products/list/secoes/4305/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4306/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4307/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4308/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4309/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4310/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4311/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4312/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/4313/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4314/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4315/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4316/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4317/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4318/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4319/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4320/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4321/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4322/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Molhos e Condimentos
+Categoria: Molhos e Condimentos
+https://api.gpa.digital/pa/products/list/secoes/4323/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Massas
+Categoria: Massas
+https://api.gpa.digital/pa/products/list/secoes/4324/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Massas
+Categoria: Massas
+https://api.gpa.digital/pa/products/list/secoes/4325/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Massas
+Categoria: Massas
+https://api.gpa.digital/pa/products/list/secoes/4326/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Massas
+Categoria: Massas
+https://api.gpa.digital/pa/products/list/secoes/4327/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4328/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4329/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4331/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4332/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4333/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4334/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4335/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4336/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4337/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Carnes
+Categoria: Carnes
+https://api.gpa.digital/pa/products/list/secoes/4338/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4339/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4340/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4341/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4342/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4343/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4344/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4345/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4346/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4347/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4348/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Biscoitos e Snacks
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4349/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Biscoitos e Snacks
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4350/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Biscoitos e Snacks
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4351/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Biscoitos e Snacks
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4352/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Naturais e Funcionais
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4353/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4354/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Floricultura e Jardinagem
+Categoria: Floricultura e Jardinagem
+https://api.gpa.digital/pa/products/list/secoes/4355/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4356/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4357/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4358/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4359/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4360/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4361/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4362/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4363/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4364/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4365/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4366/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4368/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4369/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Congelados
+Categoria: Congelados
+https://api.gpa.digital/pa/products/list/secoes/4370/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Doces e Sobremesas
+Categoria: Doces e Sobremesas
+https://api.gpa.digital/pa/products/list/secoes/4371/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Biscoitos e Snacks
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4372/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Biscoitos e Snacks
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4373/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Biscoitos e Snacks
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4374/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Biscoitos e Snacks
+Categoria: Biscoitos e Snacks
+https://api.gpa.digital/pa/products/list/secoes/4375/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Naturais e Funcionais
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4376/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Naturais e Funcionais
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4377/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Naturais e Funcionais
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4378/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Naturais e Funcionais
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4379/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Naturais e Funcionais
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4380/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Naturais e Funcionais
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4381/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4382/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4383/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4384/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4386/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4387/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4388/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4389/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4390/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4391/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4392/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4393/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Orgânicos
+Categoria: Orgânicos
+https://api.gpa.digital/pa/products/list/secoes/4394/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Floricultura e Jardinagem
+Categoria: Floricultura e Jardinagem
+https://api.gpa.digital/pa/products/list/secoes/4395/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Floricultura e Jardinagem
+Categoria: Floricultura e Jardinagem
+https://api.gpa.digital/pa/products/list/secoes/4396/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Artigos para o Lar
+Categoria: Artigos para o Lar
+https://api.gpa.digital/pa/products/list/secoes/4397/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Artigos para o Lar
+Categoria: Artigos para o Lar
+https://api.gpa.digital/pa/products/list/secoes/4400/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/4401/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/4415/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/4418/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Artigos para o Lar
+Categoria: Artigos para o Lar
+https://api.gpa.digital/pa/products/list/secoes/4419/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Artigos para o Lar
+Categoria: Artigos para o Lar
+https://api.gpa.digital/pa/products/list/secoes/4420/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Artigos para o Lar
+Categoria: Artigos para o Lar
+https://api.gpa.digital/pa/products/list/secoes/4424/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/4435/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4436/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4437/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4438/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4440/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4441/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4442/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4443/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4444/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4445/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4446/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4447/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4448/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4449/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4450/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4451/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4452/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4455/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4456/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4457/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4458/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Perfumaria
+Categoria: Perfumaria
+https://api.gpa.digital/pa/products/list/secoes/4459/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4460/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4515/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Artigos para o Lar
+Categoria: Artigos para o Lar
+https://api.gpa.digital/pa/products/list/secoes/4575/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Marcas Exclusivas
+Categoria: Marcas Exclusivas
+https://api.gpa.digital/pa/products/list/secoes/4595/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+https://api.gpa.digital/pa/products/list/secoes/4637/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Peixaria
+https://api.gpa.digital/pa/products/list/secoes/4638/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Peixaria
+Categoria: Peixaria
+https://api.gpa.digital/pa/products/list/secoes/4639/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Peixaria
+Categoria: Peixaria
+https://api.gpa.digital/pa/products/list/secoes/4640/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/4641/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Feira
+Categoria: Feira
+https://api.gpa.digital/pa/products/list/secoes/4655/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Peixaria
+Categoria: Peixaria
+https://api.gpa.digital/pa/products/list/secoes/4815/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Naturais e Funcionais
+Categoria: Naturais e Funcionais
+https://api.gpa.digital/pa/products/list/secoes/4816/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/4935/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Marcas Recomendadas
+5000
+https://api.gpa.digital/pa/products/list/secoes/5015/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Clique e Retire
+https://api.gpa.digital/pa/products/list/secoes/5035/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Pre Venda
+https://api.gpa.digital/pa/products/list/secoes/5095/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5096/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5097/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5115/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5116/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5117/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5118/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5119/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5120/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5121/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5122/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5123/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5124/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5125/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5175/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Dove Baby
+https://api.gpa.digital/pa/products/list/secoes/5235/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5255/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: SEMANA PAO
+https://api.gpa.digital/pa/products/list/secoes/5315/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Alimentos
+Categoria: Alimentos
+https://api.gpa.digital/pa/products/list/secoes/5335/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5336/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5337/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5338/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5339/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5340/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5355/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5356/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5435/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Eletroportáteis
+https://api.gpa.digital/pa/products/list/secoes/5436/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Eletroportáteis
+Categoria: Eletroportáteis
+https://api.gpa.digital/pa/products/list/secoes/5456/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Eletroportáteis
+Categoria: Eletroportáteis
+https://api.gpa.digital/pa/products/list/secoes/5475/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5476/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5477/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5496/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5497/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5498/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5499/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5500/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5501/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5515/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5516/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Pet Shop
+Categoria: Pet Shop
+https://api.gpa.digital/pa/products/list/secoes/5535/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5555/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5556/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5557/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5558/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5559/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5560/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5575/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5576/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5577/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5578/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5579/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebês
+Categoria: Bebês
+https://api.gpa.digital/pa/products/list/secoes/5595/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+1
+Categoria: Bebidas Alcoólicas
+https://api.gpa.digital/pa/products/list/secoes/5655/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5675/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/5796/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5815/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5816/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5817/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5818/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5820/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5821/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5822/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5823/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Páscoa
+Categoria: Páscoa
+https://api.gpa.digital/pa/products/list/secoes/5835/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/5856/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas Alcoólicas
+Categoria: Bebidas Alcoólicas
+https://api.gpa.digital/pa/products/list/secoes/5857/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Marcas Exclusivas
+Categoria: Marcas Exclusivas
+https://api.gpa.digital/pa/products/list/secoes/5875/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Marcas Exclusivas
+Categoria: Marcas Exclusivas
+https://api.gpa.digital/pa/products/list/secoes/5895/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Bebidas
+Categoria: Bebidas
+https://api.gpa.digital/pa/products/list/secoes/5896/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Matinais
+Categoria: Matinais
+https://api.gpa.digital/pa/products/list/secoes/5915/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/5935/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/5955/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Queijos e Frios
+Categoria: Queijos e Frios
+https://api.gpa.digital/pa/products/list/secoes/5975/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Limpeza
+Categoria: Limpeza
+6000
+https://api.gpa.digital/pa/products/list/secoes/6195/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6196/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6197/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6198/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6199/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6200/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6201/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6202/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6203/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6204/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6205/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+https://api.gpa.digital/pa/products/list/secoes/6206/?storeId=501&qt=40&s=&ftr=&p=2&rm=&gt=list-mobile
+<Response [200]>
+________________________________________
+2
+Categoria: Natal
+Categoria: Natal
+7000
+8000
+9000
+10000
+11000
+12000
