@@ -2,76 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ad2c109-6e14-41da-8cb3-23352c8883ad" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/xvs/pacote/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/xvs.html" afterPath="$PROJECT_DIR$/xvs/xvs.html" />
-      <change beforePath="$PROJECT_DIR$/xvs2.html" afterPath="$PROJECT_DIR$/xvs/xvs2.html" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/183e9860c2231e5674c541c5e540ef27.23.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/183e9860c2231e5674c541c5e540ef27.23.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/1e44bc1089eb1f514a17fed79d95eb66.29.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/1e44bc1089eb1f514a17fed79d95eb66.29.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/20f6097744dc757a8f9e918c99541694.10.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/20f6097744dc757a8f9e918c99541694.10.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/214d707abfb5eba2fb04241899765655.4.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/214d707abfb5eba2fb04241899765655.4.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/221222a96427390b5698354bb750c656.12.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/221222a96427390b5698354bb750c656.12.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/2257f5e43b4c17d758eeea1e28e7215f.10.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/2257f5e43b4c17d758eeea1e28e7215f.10.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/23a1af4333aa66e8323f13bc6acbb9f5.26.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/23a1af4333aa66e8323f13bc6acbb9f5.26.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/2b612eaf8e8fb860d09786ec53f0fa07.28.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/2b612eaf8e8fb860d09786ec53f0fa07.28.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/2c8714a83d217947bb7c886beb51e5d8.17.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/2c8714a83d217947bb7c886beb51e5d8.17.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/37f1d2bb92739cc5f129f1be5a187f20.27.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/37f1d2bb92739cc5f129f1be5a187f20.27.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/388ac670074f0ecb2677394e225133b2.27.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/388ac670074f0ecb2677394e225133b2.27.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/3a1ad21f698c052e5998a68ec39de985.3.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/3a1ad21f698c052e5998a68ec39de985.3.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/3c68871bb80af15fba7b1749e180b676.8.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/3c68871bb80af15fba7b1749e180b676.8.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/44ace83d4098770f5bf9ed32666dfc42.8.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/44ace83d4098770f5bf9ed32666dfc42.8.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/47b20986ef549fc34b6d738d00cb4b09.19.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/47b20986ef549fc34b6d738d00cb4b09.19.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/49065f7687ee3423e1684d6d4b70c7b5.12.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/49065f7687ee3423e1684d6d4b70c7b5.12.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/4fd6fa58433376887c92e9f313b179a5.17.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/4fd6fa58433376887c92e9f313b179a5.17.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/513767ded3818296b5fce4c16fb1f7f3.18.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/513767ded3818296b5fce4c16fb1f7f3.18.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/530234441c21415cefdc5b251967f064.8.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/530234441c21415cefdc5b251967f064.8.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/553d757bad3be15079b57e22b486a651.19.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/553d757bad3be15079b57e22b486a651.19.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/5889ced9f2d58723fe1fbd487f2f40fc.15.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/5889ced9f2d58723fe1fbd487f2f40fc.15.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/5d857cb6dbb7ea5e8c210b05ab8db668.27.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/5d857cb6dbb7ea5e8c210b05ab8db668.27.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/618bdd2021d1d2fd17bdda7d29137190.7.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/618bdd2021d1d2fd17bdda7d29137190.7.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/66f6702970c08ec2f734d08574a41890.29.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/66f6702970c08ec2f734d08574a41890.29.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/6f81e4dd5f8a2f96f684d0d0912bbc91.6.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/6f81e4dd5f8a2f96f684d0d0912bbc91.6.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/703d66b3ccb650aef53e0a732e2849e5.30.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/703d66b3ccb650aef53e0a732e2849e5.30.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/70f41f6337b58fd9cbd5402094a94b11.15.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/70f41f6337b58fd9cbd5402094a94b11.15.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/882f7e1456ef981f4885f1f0d2a8a5f4.30.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/882f7e1456ef981f4885f1f0d2a8a5f4.30.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/89192dd6f9521e238908de6b1540f58b.28.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/89192dd6f9521e238908de6b1540f58b.28.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/8b6b82cfd1685cd5d91ffd1e5ffd54ed.6.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/8b6b82cfd1685cd5d91ffd1e5ffd54ed.6.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/8b86c312c33a1320cfb8554c8d54abb9.4.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/8b86c312c33a1320cfb8554c8d54abb9.4.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/9e2dd914f40b8cd159c8605dd47d0484.25.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/9e2dd914f40b8cd159c8605dd47d0484.25.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/9f4ddc54cf1f50cdb476559529010414.6.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/9f4ddc54cf1f50cdb476559529010414.6.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/bf81836274d8187de905b7ab6fad3d86.28.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/bf81836274d8187de905b7ab6fad3d86.28.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/bfb6b4d07a152be840485aafb049016b.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/bfb6b4d07a152be840485aafb049016b.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/c0c400807238b77e3262952e9e459206.4.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/c0c400807238b77e3262952e9e459206.4.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/c3eab2bed2b44374c180e8abc1ece6a4.25.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/c3eab2bed2b44374c180e8abc1ece6a4.25.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/c92ea2844481af7216d71c40fe071909.30.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/c92ea2844481af7216d71c40fe071909.30.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/d696daabff235bb091ceb61b0de23fac.12.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/d696daabff235bb091ceb61b0de23fac.12.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/da0bda1bae89305b50976dd2b7e6c9a9.2.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/da0bda1bae89305b50976dd2b7e6c9a9.2.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/da48fdd83c9aee75771f9628d31f9521.11.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/da48fdd83c9aee75771f9628d31f9521.11.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/dda4f606b6b824c5d3acdefe9e7964c8.13.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/dda4f606b6b824c5d3acdefe9e7964c8.13.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/default.footer.static.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_files/default.footer.static.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/default.header.static.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_files/default.header.static.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/default.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_files/default.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/e04c13c6838fa6f5be2eccffe6839e3e.12.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/e04c13c6838fa6f5be2eccffe6839e3e.12.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/e2904661efaf3521cf99495b80dbe28c.21.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/e2904661efaf3521cf99495b80dbe28c.21.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/e2e639e0e60b8152f88a05d450d3a318.4.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/e2e639e0e60b8152f88a05d450d3a318.4.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/e587967ddb377234466d2d6bf2f20142.8.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/e587967ddb377234466d2d6bf2f20142.8.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/ecf8bf52f279444a3244703653c92a61.11.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/ecf8bf52f279444a3244703653c92a61.11.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/ed054b033efc0b8c7c18a1276a640ace.3.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/ed054b033efc0b8c7c18a1276a640ace.3.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/ff345e67616afea1c8348d65689c14cc.12.jpg" afterPath="$PROJECT_DIR$/xvs/xvs_files/ff345e67616afea1c8348d65689c14cc.12.jpg" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/jquery.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_files/jquery.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/jquery.min.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_files/jquery.min.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/main.css" afterPath="$PROJECT_DIR$/xvs/xvs_files/main.css" />
-      <change beforePath="$PROJECT_DIR$/xvs_files/require.static.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_files/require.static.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_scrap_page.py" afterPath="$PROJECT_DIR$/xvs/xvs_scrap_page.py" />
-      <change beforePath="$PROJECT_DIR$/xvs_tag_list.py" afterPath="$PROJECT_DIR$/xvs/xvs_tag_list.py" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags.html" afterPath="$PROJECT_DIR$/xvs/xvs_tags.html" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags_files/720cff80da6fb72b3ad8dc77b258351a.gif" afterPath="$PROJECT_DIR$/xvs/xvs_tags_files/720cff80da6fb72b3ad8dc77b258351a.gif" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags_files/default.footer.static.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_tags_files/default.footer.static.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags_files/default.header.static.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_tags_files/default.header.static.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags_files/default.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_tags_files/default.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags_files/jquery.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_tags_files/jquery.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags_files/jquery.min.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_tags_files/jquery.min.js.download" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags_files/main.css" afterPath="$PROJECT_DIR$/xvs/xvs_tags_files/main.css" />
-      <change beforePath="$PROJECT_DIR$/xvs_tags_files/require.static.js.download" afterPath="$PROJECT_DIR$/xvs/xvs_tags_files/require.static.js.download" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -402,9 +334,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24330357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24330357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36239317" sideWeight="0.50595236" order="11" side_tool="true" content_ui="tabs" />
@@ -609,6 +540,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xvs/xvs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvs/pacote/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
