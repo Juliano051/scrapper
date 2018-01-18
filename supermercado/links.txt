@@ -1,3 +1,6 @@
+BLUESOFT:
+https://cosmos.bluesoft.com.br/categorias/biscoitos-bolachas-nao-pereciveis-10000161/produtos
+
 Secretaria da Fazenda de GO - Aplicação com lista de produtos e código de barras
 http://aplicacao.sefaz.go.gov.br/perguntaresposta/consulta_pauta_bebidas.php?ano_pesquisa=2013003&cod_grupo=9
 
@@ -10,7 +13,6 @@ Lista de produtos com foto e código de barras
 
 3) busca de produtos por NCM, descrição e código de barras (sem fotos)
 http://www.analisadortributario.com.br/Default.aspx?
-
 
 
 -- coletado do extra:
