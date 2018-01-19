@@ -1,22 +1,36 @@
+# coding=utf-8
 import ssl
-from urllib.request import urlopen
+import requests
 from bs4 import BeautifulSoup
-import re
+from time import sleep
 
 ssl._create_default_https_context = ssl._create_unverified_context
-html = urlopen("https://www.xvs.com/tags/alone")
-# html = open("xvs.html", encoding="utf-8")
+s = requests.session()
+
+num_NCM = "34022000"
+
+html = s.get("https://cosmos.bluesoft.com.br/ncms/" + num_NCM + "/products")
+html = html.content
 bsObj = BeautifulSoup(html, "html.parser")
 
-links = bsObj.findAll("div", {"class": "thumb-block"})
-# links = bsObj.findAll("a", {"href": re.compile("https://www.xs.com/video[0-9]")})
+# Listar a quantidade de paginas que compoem a paginacao
+paginacao = bsObj.find("ul", {"class": "pagination"})  # localiza a <ul> que contém os links para as próximas páginas
+paginas = paginacao.findAll("li", recursive=False)  # Lista apenas os <li> que contém os links
+print(paginas[len(paginas) - 2].text)  # Busca o número da última página contido no último botão
+nome_ncm = bsObj.find("title")  # Busca o nome do NCM
+print(nome_ncm.text[:-20] + "\n")
 
-print(links[23].prettify())
+for pags in range(2):
+    # for pags in range(int(paginas[len(paginas) - 2].text)):
+    print(">>>>>>Página:" + str(pags) + "<<<<<<<")
+    pagina_produtos = s.get("https://cosmos.bluesoft.com.br/ncms/" + num_NCM + "/products?page=" + str(pags))
+    pag_content = pagina_produtos.content
+    bsObj = BeautifulSoup(pag_content, "html.parser")
 
-for link in links:
-    print(link.find("a", {"href": re.compile("/video[0-9]"), "title": re.compile("[A*-z*]")}).attrs["title"])
-    print("www.xvs.com/"+link.find("a", {"href": re.compile("/video[0-9]"), "title": re.compile("[A*-z*]")}).attrs["href"])
-    # print(link.find("span", {"class": "mobile-hide"}).get_text())
-    print(link.find("span", string=re.compile("[A*-z*]")).get_text())
-    print(link.find("img", {"data-src": re.compile("[A*-z*]")}).attrs["data-src"])
-    print("-"*20)
+    produtos = bsObj.findAll("h5", {"class": "description"})
+
+    for prod in produtos:
+        print(prod.a.text + " - https://cosmos.bluesoft.com.br" + prod.a.attrs["href"])
+    sleep(5)
+
+

@@ -1,4 +1,4 @@
-#coding=utf-8
+# coding=utf-8
 import ssl
 import requests
 from bs4 import BeautifulSoup
@@ -9,21 +9,19 @@ s = requests.session()
 
 num_NCM = "34022000"
 
-
 html = s.get("https://cosmos.bluesoft.com.br/ncms/" + num_NCM + "/products")
 html = html.content
 bsObj = BeautifulSoup(html, "html.parser")
-
-
 
 # Listar a quantidade de paginas que compoem a paginacao
 paginacao = bsObj.find("ul", {"class": "pagination"})  # localiza a <ul> que contém os links para as próximas páginas
 paginas = paginacao.findAll("li", recursive=False)  # Lista apenas os <li> que contém os links
 print(paginas[len(paginas)-2].text)  # Busca o número da última página contido no último botão
-nome_ncm = bsObj.find("title")
+nome_ncm = bsObj.find("title") # Busca o nome do NCM
 print(nome_ncm.text[:-20] + "\n")
 
-for pags in range(int(paginas[len(paginas)-2].text)):
+for pags in range(2):
+# for pags in range(int(paginas[len(paginas) - 2].text)):
     print(">>>>>>Página:"+str(pags)+"<<<<<<<")
     pagina_produtos = s.get("https://cosmos.bluesoft.com.br/ncms/" + num_NCM + "/products?page="+str(pags))
     pag_content = pagina_produtos.content
