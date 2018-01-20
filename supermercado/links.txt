@@ -1876,3 +1876,6 @@ Categoria: Natal
 10000
 11000
 12000
+
+
+wget -v -t5 -domains -np --reject jpg,png,gif,css,js -erobots=off -r -E -I ncms,produtos https://cosmos.bluesoft.com.br/ --no-check-certificate

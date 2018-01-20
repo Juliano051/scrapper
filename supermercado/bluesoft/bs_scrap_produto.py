@@ -2,24 +2,22 @@
 import ssl
 import requests
 from bs4 import BeautifulSoup
-from time import sleep
+import re
 
 ssl._create_default_https_context = ssl._create_unverified_context
 s = requests.session()
 
-num_NCM = "34022000"
+ean_gtin = "7891149200504"
 
-html = s.get("https://cosmos.bluesoft.com.br/ncms/" + num_NCM + "/products")
+html = s.get("https://cosmos.bluesoft.com.br/produtos/"+str(ean_gtin))
 html = html.content
 bsObj = BeautifulSoup(html, "html.parser")
 
-# Listar a quantidade de paginas que compoem a paginacao
-paginacao = bsObj.find("ul", {"class": "pagination"})  # localiza a <ul> que contém os links para as próximas páginas
-paginas = paginacao.findAll("li", recursive=False)  # Lista apenas os <li> que contém os links
-print(paginas[len(paginas) - 2].text)  # Busca o número da última página contido no último botão
-nome_ncm = bsObj.find("title")  # Busca o nome do NCM
-print(nome_ncm.text[:-20] + "\n")
+# Buscar o link da imagem do produto
+imagem_produto = bsObj.find("div", {"class": "product-thumbnail"}).findChild().attrs["src"] # localiza a <ul> que contém os links para as próximas páginas
 
+print(imagem_produto)
+'''
 for pags in range(2):
     # for pags in range(int(paginas[len(paginas) - 2].text)):
     print(">>>>>>Página:" + str(pags) + "<<<<<<<")
@@ -32,5 +30,5 @@ for pags in range(2):
     for prod in produtos:
         print(prod.a.text + " - https://cosmos.bluesoft.com.br" + prod.a.attrs["href"])
     sleep(5)
-
+'''
 
