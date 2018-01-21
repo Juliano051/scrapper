@@ -22,7 +22,7 @@ def lista_produtos_por_ncm(num_NCM):
     print(nome_ncm.text[:-20] + "\n")
 
     for pags in range(2):
-        # for pags in range(int(paginas[len(paginas) - 2].text)):
+    # for pags in range(int(paginas[len(paginas) - 2].text)):
         print(">>>>>>Página:" + str(pags) + "<<<<<<<")
         pagina_produtos = s.get("https://cosmos.bluesoft.com.br/ncms/" + num_NCM + "/products?page=" + str(pags))
         pag_content = pagina_produtos.content
@@ -32,7 +32,7 @@ def lista_produtos_por_ncm(num_NCM):
 
         for prod in produtos:
             print(prod.a.text + " - https://cosmos.bluesoft.com.br" + prod.a.attrs["href"])
-        sleep(5)
+            sleep(0.1)
 
 
 lista_produtos_por_ncm("04011010")
