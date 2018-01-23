@@ -3,6 +3,7 @@ import ssl
 import requests
 from bs4 import BeautifulSoup
 from time import sleep
+import bs_scrap_produto
 
 ssl._create_default_https_context = ssl._create_unverified_context
 s = requests.session()
@@ -32,7 +33,8 @@ def scrap_produtos_por_ncm(num_NCM):
 
         for prod in produtos:
             print(prod.a.text + " - https://cosmos.bluesoft.com.br" + prod.a.attrs["href"])
-            sleep(0.1)
-
+            bs_scrap_produto.scrap_produto("https://cosmos.bluesoft.com.br" + prod.a.attrs["href"])
+            sleep(0.5)
 
 scrap_produtos_por_ncm("04011010")
+

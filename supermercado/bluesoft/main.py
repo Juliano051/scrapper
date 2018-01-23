@@ -1,0 +1,5 @@
+import bs_scrap_lista
+import bs_scrap_produto
+import bs_scrap_salva_imagem
+
+bs_scrap_lista.scrap_produtos_por_ncm("04011010")
